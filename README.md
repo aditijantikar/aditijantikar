@@ -1,20 +1,37 @@
-# Hi 👋, I'm Aditi Jantikar
+# Aditi Jantikar
 
-### An aspring ML Scientist in the field of biology
+### Aspiring ML Scientist | AI in Biology
 
-- 🔭 I'm currently working on **I'm currently researching what draws immune cells to tumors. My last project involved building a predictive tool to screen compounds for toxicity, which helps save time and money in lab testing!**
+I'm passionate about leveraging machine learning to accelerate biological discoveries and drug development.
 
-- 🌱 I'm currently learning **RNNs- LSTMs, Kubernetes, and Transformer Architechure, RMM, and RLHF**
+## Current Research
 
-- 👯 I'm looking to collaborate on **Cheminformatics, Clinical Trial Optimization, and AI enabled viral genome design**
+I'm currently researching what draws immune cells to tumors using computational approaches. Recently, I built a predictive tool to screen compounds for toxicity, helping reduce time and costs in preclinical testing.
 
-- 🤝 I'm looking for help with **GANs and GNNs**
+## Learning & Development
 
-- 💬 Ask me about **How AI in shifting biological discoveries!**
+- **Deep Learning:** RNNs, LSTMs, and Transformer Architectures
+- **ML Operations:** Kubernetes
+- **Advanced ML:** Reward Modeling (RM) and RLHF
 
-- 📫 Get in touch with me at **aditimj2001@gmail.com**
+## Collaboration Interests
 
-- ⚡ Fun fact **I just love random trivia. My brain has this odd talent for remembering obscure facts, often at the expense of... well, everything else.**
+I'm actively seeking collaborators for projects involving:
+- Cheminformatics
+- Clinical trial optimization
+- AI-enabled viral genome design
+
+## Areas Where I'm Seeking Guidance
+
+- Generative Adversarial Networks (GANs)
+- Graph Neural Networks (GNNs)
+
+## Let's Connect
+
+Ask me about how AI is shifting biological discoveries, or reach out to discuss potential collaborations.
+
+**Email:** aditimj2001@gmail.com
+-  Fun fact **I just love random trivia. My brain has this odd talent for remembering obscure facts, often at the expense of... well, everything else.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
