@@ -2,36 +2,7 @@
 
 ### Aspiring ML Scientist | AI in Biology
 
-I'm passionate about leveraging machine learning to accelerate biological discoveries and drug development.
-
-## Current Research
-
-I'm currently researching what draws immune cells to tumors using computational approaches. Recently, I built a predictive tool to screen compounds for toxicity, helping reduce time and costs in preclinical testing.
-
-## Learning & Development
-
-- **Deep Learning:** RNNs, LSTMs, and Transformer Architectures
-- **ML Operations:** Kubernetes
-- **Advanced ML:** Reward Modeling (RM) and RLHF
-
-## Collaboration Interests
-
-I'm actively seeking collaborators for projects involving:
-- Cheminformatics
-- Clinical trial optimization
-- AI-enabled viral genome design
-
-## Areas Where I'm Seeking Guidance
-
-- Generative Adversarial Networks (GANs)
-- Graph Neural Networks (GNNs)
-
-## Let's Connect
-
-Ask me about how AI is shifting biological discoveries, or reach out to discuss potential collaborations.
-
-**Email:** aditimj2001@gmail.com
--  Fun fact **I just love random trivia. My brain has this odd talent for remembering obscure facts, often at the expense of... well, everything else.**
+I am passionate about leveraging machine learning to accelerate biological discoveries and drug development.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
